@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import Orders from './components/Orders'
 import Layout from './components/Layout'
 import Login from './containers/login'
 import   firebase from "firebase";
